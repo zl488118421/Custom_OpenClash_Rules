@@ -167,6 +167,18 @@ DOMAIN-SUFFIX,5ddd.com
 #DOMAIN-SUFFIX,gztowngas.com
 # 115
 #DOMAIN-SUFFIX,115vod.com
+#华硕官方
+DOMAIN-SUFFIX,asus.com
+DOMAIN-SUFFIX,asuscloud.com
+DOMAIN-SUFFIX,asuswebstorage.com
+DOMAIN-SUFFIX,asus.com.cn
+#github代理加速
+DOMAIN-SUFFIX,ghproxy.net
+DOMAIN-SUFFIX,gh-proxy.com
+DOMAIN-SUFFIX,ghfast.top
+#科研网站，不允许代理访问
+DOMAIN-SUFFIX,ncbi.nlm.nih.gov
+DOMAIN-SUFFIX,crossref.org
 # 松下智能家居
 #DOMAIN-SUFFIX,psmartcloud.com
 # 其他
@@ -177,5 +189,8 @@ DOMAIN-SUFFIX,5ddd.com
 #DOMAIN-SUFFIX,giecds.com
 #DOMAIN-SUFFIX,mashangfangxin.com
 #DOMAIN-SUFFIX,cdkeynogap.com
+DOMAIN-SUFFIX,rcouyi.com
+DOMAIN-SUFFIX,hikvision.com
+DOMAIN-SUFFIX,hikvpn.com
 
 # 更多已被收录的域名，此处未做保留
